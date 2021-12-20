@@ -1,0 +1,7 @@
+# configuration file
+# all the settings must be defined unless otherwise stated
+
+# camera
+    rotSpeed = 0.3
+    zoomSpeed = 0.5
+    translateSpeed = 0.6
